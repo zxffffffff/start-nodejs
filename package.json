@@ -1,0 +1,22 @@
+{
+  "name": "start-nodejs",
+  "version": "1.0.0",
+  "description": "start node.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxffffffff/start-nodejs.git"
+  },
+  "author": "zxffffffff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zxffffffff/start-nodejs/issues"
+  },
+  "homepage": "https://github.com/zxffffffff/start-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
