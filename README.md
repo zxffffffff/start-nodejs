@@ -21,8 +21,9 @@
 
 ## Express
 - https://github.com/expressjs/express
-- `npm install express --save`
+- `npm install express`
 
 ## Fastify
 - https://www.fastify.io/
 - 最高性能的 Web 框架之一（Node.js 中最快的），是 Express 之后最优的选择
+- `npm install fastify`
