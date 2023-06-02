@@ -15,10 +15,14 @@
     - gyp：构建系统
     - gtest：单元测试
 
-## Node.js 使用
+## 安装
 - https://nodejs.dev/zh-cn/learn/
 - 初始化项目：`npm init`
 
-## Express 使用
+## Express
 - https://github.com/expressjs/express
 - `npm install express --save`
+
+## Fastify
+- https://www.fastify.io/
+- 最高性能的 Web 框架之一（Node.js 中最快的），是 Express 之后最优的选择
